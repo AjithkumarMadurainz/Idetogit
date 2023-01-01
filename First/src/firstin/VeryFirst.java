@@ -21,6 +21,9 @@ public class VeryFirst {
 		System.out.println(s1);
 		String s2 = s+ s1;
 		System.out.println(s2);
+		String s3 = "AK";
+		String name = s1+s2+s3;
+		System.out.println(name);
 				
 
 	}
